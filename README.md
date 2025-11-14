@@ -21,7 +21,7 @@ https://huggingface.co/spaces/samhitak10/ultrasound-demo
 ## 🧠 Model Details  
 - TensorFlow Convolutional Neural Network (CNN)  
 - Trained on **925 ultrasound samples**  
-- Three diagnostic categories  
+- Three diagnostic categories: benign, malignant, normal
 - Softmax output with argmax for label selection  
 - Training accuracy ~74.8  
 - Validation accuracy ~59.8  
